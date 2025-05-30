@@ -1,7 +1,6 @@
 # Olá! Tudo bom? 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Boldonse&size=30&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=DEV.+FRONT-END;DESIGNER)](https://git.io/typing-svg) <BR> 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Boldonse&size=50&pause=1000&color=F7F7F7&width=435&lines=Fullstack+Developer;Brazil%F0%9F%93%8D)](https://git.io/typing-svg) 
 ---
 
 #### Linguagens e plataformas 
