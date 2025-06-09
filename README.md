@@ -4,7 +4,7 @@
 ---
 
 #### Linguagens e plataformas 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,py,mysql,figma,git,github)](https://skillicons.dev)
 
 ---
 ![Tharlesc GitHub stats](https://github-readme-stats.vercel.app/api?username=tharlesc&show_icons=true&theme=transparent)
