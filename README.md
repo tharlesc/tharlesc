@@ -1,4 +1,4 @@
-<h1 align="center">Olá Mundo!</h1>
+1/3tuj<h1 align="center">Olá Mundo!</h1>
 
 ###
 
@@ -39,10 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharlesc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
