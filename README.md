@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,mysql,figma,ps,ai,git
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,mysql,figma,ps,ai,git"
   </a>
 </p>
 </div>
