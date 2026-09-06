@@ -13,7 +13,9 @@
 
 ###
 
-<p align="left">Desenvolvedor full stack em formação, com base sólida em design gráfico. Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git, além de ferramentas como Figma, Photoshop e Illustrator. Iniciei minha carreira no design, criando identidades visuais e materiais para redes sociais. Hoje, aplico essa bagagem visual em projetos web, unindo código e estética para entregar soluções funcionais, bem estruturadas e visualmente consistentes. Já participei de projetos como protótipos de sistemas, landing pages e automações simples com Python.<br>Curso Engenharia de Software e busco oportunidades para crescer em projetos que valorizem tanto a técnica quanto o design.</p>
+<p align="left">Sou estudante de Engenharia de Software e Desenvolvedor Web Júnior. Com background prático em design gráfico, trago um olhar direcionado para a estética e usabilidade (UI/UX). Essa bagagem facilita muito o meu trabalho na hora de conectar a interface visual com a estrutura lógica, desenvolvendo aplicações funcionais e bem integradas.
+
+Atualmente, atuo como estagiário de T.I/DEV. Meu foco diário envolve o desenvolvimento e manutenção de sistemas internos, a criação de automações de processos e a integração de dados. Também atuo na execução de testes de software (QA) e apoio as rotinas de segurança da informação e LGPD, sempre buscando otimizar operações e construir soluções mais ágeis e seguras.</p>
 
 ###
 
