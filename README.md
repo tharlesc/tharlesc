@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Software e Desenvolvedor Web Júnior. Com background prático em design gráfico, trago um olhar direcionado para a estética e usabilidade (UI/UX). Essa bagagem facilita muito o meu trabalho na hora de conectar a interface visual com a estrutura lógica, desenvolvendo aplicações funcionais e bem integradas.
+<p align="left">Sou estudante de Engenharia de Software. Com background prático em design gráfico, trago um olhar direcionado para a estética e usabilidade (UI/UX). Essa bagagem facilita muito o meu trabalho na hora de conectar a interface visual com a estrutura lógica, desenvolvendo aplicações funcionais e bem integradas.
 
 Atualmente, atuo como estagiário de T.I/DEV. Meu foco diário envolve o desenvolvimento e manutenção de sistemas internos, a criação de automações de processos e a integração de dados. Também atuo na execução de testes de software (QA) e apoio as rotinas de segurança da informação e LGPD, sempre buscando otimizar operações e construir soluções mais ágeis e seguras.</p>
 
