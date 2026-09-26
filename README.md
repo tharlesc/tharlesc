@@ -66,7 +66,7 @@ localização: Brasil 🇧🇷
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/tharlesc/tharlesc/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/tharlesc/tharlesc/output-1/github-snake-dark.svg)
 
 </div>
 
