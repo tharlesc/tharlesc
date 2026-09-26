@@ -49,26 +49,10 @@ localização: Brasil 🇧🇷
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharlesc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" alt="Tharles GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharlesc&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&langs_count=8" alt="Top Languages"/>
-</div>
-
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharlesc&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 📈 Atividade
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharlesc&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)](https://github.com/tharlesc)
-![Snake animation](https://raw.githubusercontent.com/tharlesc/tharlesc/output-1/github-snake-dark.svg)
-
 </div>
 
 <br/>
