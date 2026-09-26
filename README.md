@@ -62,11 +62,11 @@ localização: Brasil 🇧🇷
 
 <br/>
 
-## 🐍 Contribuições
+## 📈 Atividade
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/tharlesc/tharlesc/output/github-snake-dark.svg)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharlesc&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)](https://github.com/tharlesc)
 
 </div>
 
